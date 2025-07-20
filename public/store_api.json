@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Instagram",
+    "appId": "com.instagram.android",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "Instagram",
+    "score": 4.5,
+    "free": true
+  },
+  {
+    "title": "Facebook",
+    "appId": "com.facebook.katana",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "Meta Platforms, Inc.",
+    "score": 4.2,
+    "free": true
+  },
+  {
+    "title": "Twitter",
+    "appId": "com.twitter.android",
+    "url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "Twitter, Inc.",
+    "score": 4.1,
+    "free": true
+  }
+  ,
+  {
+    "title": "Snapchat",
+    "appId": "com.snapchat.android",
+    "url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "Snap Inc",
+    "score": 4.3,
+    "free": true
+  },
+  {
+    "title": "TikTok",
+    "appId": "com.zhiliaoapp.musically",
+    "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "TikTok Pte. Ltd.",
+    "score": 4.5,
+    "free": true
+  }
+  ,
+  {
+    "title": "Reddit",
+    "appId": "com.reddit.frontpage",
+    "url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "Reddit Inc.",
+    "score": 4.4,
+    "free": true
+  }
+  ,
+  {
+    "title": "Pinterest",
+    "appId": "com.pinterest",
+    "url": "https://play.google.com/store/apps/details?id=com.pinterest",
+    "icon": "https://play-lh.googleusercontent.com/icon",
+    "developer": "Pinterest, Inc.",
+    "score": 4.3,
+    "free": true
+  }
+        
+  
+]
